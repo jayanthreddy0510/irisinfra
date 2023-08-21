@@ -1,0 +1,132 @@
+.hit{
+color: thin white;
+width: 85%;
+}
+.hit2{
+margin-top: 50px;
+}
+.hit3{
+text-align: center;
+}body{
+margin: 0px;
+padding: 0px;
+}
+img{
+height: 25%;
+margin-left: 80px;
+}
+ul li{
+background-color: transparent;
+height: 35px;
+width: 120px;
+line-height: 35px;
+float: right;
+display: block;
+border: 1px solid transparent;
+border-radius: 8px;
+text-align: center;
+}
+ul li a{
+color: white;
+text-decoration: none;
+display: block;
+color: black;
+}
+ul li a:hover{
+background-color: green;
+border-radius: 8px;
+}
+ul li ul li{
+display: none;
+}
+ul li:hover ul li{
+display: block;
+width: 130px;
+}
+.img{
+height: 100%;
+width: 100%;
+margin: 0px;
+}
+.mar marquee{
+background-color: pink;
+height: 50px;
+line-height: 50px;
+color: red;
+font-size: 30px;
+display: block;
+scrollamount: 90;
+}
+.h1{
+background-image: url(https://tse1.mm.bing.net/th?id=OIP.iN6S198yMpez8sfyfHquBQHaE4&pid=Api&P=0);
+background-position: center;
+height: 100px;
+text-align: center;
+padding: 48px;
+font-size: 60px;
+}
+.mass1{
+float: left;
+}
+.mass{
+margin-top: 50px;
+margin-left: 140px;
+background-color: black;
+width: 280px;
+height: 170px;
+line-height: 170px;
+text-align: center;
+color: white;
+}
+.mass2{
+margin-left: 145px;
+}
+.monkey{
+margin-top: 5%;
+color: white;
+margin-left: 35%;
+background-color: black;
+width: 280px;
+height: 170px;
+line-height: 170px;
+text-align: center;
+}
+.class{
+margin-left: 36%;
+margin-top: 20px;
+}
+.robo{
+float: right;
+margin-right: 10%;
+}
+.end{
+background-color: black;
+color: white;
+}
+.ref button{
+color: white;
+background-color: black;
+height: 70px;
+border: 35px solid black;
+margin-left: 200px;
+}
+.black{
+color: black;
+}
+.links{
+color: white;
+}
+.links a{
+color: white;
+text-decoration: underline;
+}
+.hit{
+color: thin white;
+width: 85%;
+}
+.hit2{
+margin-top: 50px;
+}
+.hit3{
+text-align: center;
+}
